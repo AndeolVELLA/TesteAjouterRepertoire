@@ -1,0 +1,15 @@
+.Titre{
+    padding-top: 70px;
+    font-family: 'Silkscreen', cursive;
+    color: yellow;
+    text-align: center;
+    text-shadow: 0.2em 0.1em rgb(0, 143, 0);
+    font-size: 3em;
+}
+
+body{
+    background-image: url("Images/BackGround.png");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    max-width: 100%;
+}
